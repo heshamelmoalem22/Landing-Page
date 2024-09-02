@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.067f9393.css",
+    "main.js": "/static/js/main.5b42565e.js",
+    "static/media/video2.mp4": "/static/media/video2.5fb3a2d9c60780e59a4d.mp4",
+    "static/media/image6.jpg": "/static/media/image6.195675efddf00efa7986.jpg",
+    "static/media/bg1.jpg": "/static/media/bg1.de1d84e1afe70e5a743e.jpg",
+    "static/media/image9.jpg": "/static/media/image9.8f3425773751186efcde.jpg",
+    "static/media/image5.jpg": "/static/media/image5.31f4d4d386310e7c52fb.jpg",
+    "static/media/image1.jpg": "/static/media/image1.126a8456eb7bc9a7f4ff.jpg",
+    "static/media/Blog1.jpg": "/static/media/Blog1.20222d0d7fd887046bc1.jpg",
+    "static/media/customer.jpg": "/static/media/customer.66aac27e486f01a6e808.jpg",
+    "static/media/image10.jpg": "/static/media/image10.e9a2e8d1dc3179208085.jpg",
+    "static/media/image2.jpg": "/static/media/image2.b30f02dbcf3c349ae1d8.jpg",
+    "static/media/hiking.jpg": "/static/media/hiking.25cf377aa817ae66ec37.jpg",
+    "static/media/mountain.jpg": "/static/media/mountain.b1614efc5e4a5898fc70.jpg",
+    "static/media/Blog4.jpg": "/static/media/Blog4.39b98a46e36f35ed5e29.jpg",
+    "static/media/Blog3.jpg": "/static/media/Blog3.667df04f7ae83695d531.jpg",
+    "static/media/Blog2.jpg": "/static/media/Blog2.10c8b4008af332362d17.jpg",
+    "static/media/map4.jpg": "/static/media/map4.8cc97c4d4863efa06057.jpg",
+    "static/media/image11.jpg": "/static/media/image11.e07ad24960370e1875ba.jpg",
+    "index.html": "/index.html",
+    "main.067f9393.css.map": "/static/css/main.067f9393.css.map",
+    "main.5b42565e.js.map": "/static/js/main.5b42565e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.067f9393.css",
+    "static/js/main.5b42565e.js"
+  ]
+}
